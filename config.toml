@@ -1,0 +1,76 @@
+baseURL = "https://www.martinkaptein.com/"
+languageCode = "en"
+title = "Martin Kaptein"
+theme = "casper"
+
+paginate = 5
+DisqusShortname = "martinkaptein"
+Copyright = "All rights reserved - 2017"
+# copyright = "All rights reserved"
+pluralizelisttitles = false
+
+canonifyurls = true
+
+[params]
+  description = "Welcome to the website of Martin Kaptein. Martin Kaptein is a musician and pianist as well as a tech enthusiast and a philosopher in his free time. Go to the About page for more information."
+  #metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/martin-kaptein-cover.jpg"
+  author = "Martin Kaptein"
+  authorlocation = "Enschede, The Netherlands"
+  authorwebsite = "https://www.martinkaptein.com/"
+  authorbio= "musician, pianist, tech enthusiast, philosopher"
+  logo = "images/logo.png"
+  googleAnalyticsUserID = "UA-86096566-3"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  #RSSLink = "http://feeds.feedburner.com/..."
+  #githubName = "martinkaptein"
+  twitterName = "MartinKaptein"
+  instagramName = "martinkaptein"
+  email = "martinkaptein@outlook.com"
+  facebookName = "martin.kaptein"
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "martinkaptein"
+    
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
+
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/"
+weight = 9
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "media"
+name = "Media"
+url = "/media/"
+weight = 8
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 7
+
+
+[permalinks]
+post = "blog/:slug/"
+page = "/:slug/"

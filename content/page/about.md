@@ -61,12 +61,13 @@ Martin Kaptein has a lot of experience in playing solo concerts, with wide varie
 - 2016 first price Vught klassiek competition in the Netherlands
 - 2017 first price Ulvenhart klassiek competition in the Netherlands
 - 2017 first price International Music festival in Loutraki, Greece
+- 2017 VriendenCultuurPrijs2017 KoBrapublieksprijs - price of the public (Tilburg, The Netherlands)
 
 ### IT experience
 
-Martin Kaptein has experience with a wide variety of different technologies, especially Javascript and Python.
+As a hobby, Martin Kaptein has experience with a wide variety of different technologies, especially Javascript and Python.
 Also, Martin has extended knowledge of [Wordpress](https://wordpress.com/) and Static Site Generators (such as [jekyll](https://jekyllrb.com/) or [hugo](https://gohugo.io/)).
-By the way, Martin has [written his own static site generator](blog/pythoncms.md) in Python which you can find [here](blog/pythoncms.md).
+By the way, Martin has [written his own static site generator](../blog/pythoncms) in Python which you can find [here](../blog/pythoncms).
 
 Besides that, Martin Kaptein is familiar with:
 

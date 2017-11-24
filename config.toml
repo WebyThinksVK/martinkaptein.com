@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Martin Kaptein"
 theme = "casper"
 
-paginate = 5
+paginate = 6
 DisqusShortname = "martinkaptein"
 Copyright = "All rights reserved - 2017"
 # copyright = "All rights reserved"
@@ -19,7 +19,7 @@ canonifyurls = true
   authorlocation = "Enschede, The Netherlands"
   authorwebsite = "https://www.martinkaptein.com/"
   authorbio= "musician, pianist, tech enthusiast, philosopher"
-  logo = "images/logo.png"
+  logo = "images/logo-black-square.png"
   googleAnalyticsUserID = "UA-86096566-3"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..."
@@ -29,7 +29,6 @@ canonifyurls = true
   email = "martinkaptein@outlook.com"
   facebookName = "martin.kaptein"
   # linkedinName = ""
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = true
   
   # Setting a value will load highlight.js and enable syntax highlighting using the style selected.

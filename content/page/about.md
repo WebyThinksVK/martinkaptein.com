@@ -83,3 +83,5 @@ Furhermore, Martin Kaptein has a very profound interest for Artificial Inteligen
 ### Other interests
 
 In his free time Martin Kaptein is a philosopher, reads a lot and likes to take pictures. For latter, it is suggested to head to his Instagram [@martinkaptein](https://www.instagram.com/martinkaptein/).
+
+[Contact Martin Kaptein here](/contact/)

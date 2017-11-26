@@ -71,7 +71,7 @@ By the way, Martin has [written his own static site generator](../blog/pythoncms
 
 Besides that, Martin Kaptein is familiar with:
 
-- [Creating websites](contact.md)
+- [Creating websites](/contact/)
 - PHP & MySQL
 - HTML5
 - GIT vcs, Travis CI, Netlify
@@ -83,5 +83,7 @@ Furhermore, Martin Kaptein has a very profound interest for Artificial Inteligen
 ### Other interests
 
 In his free time Martin Kaptein is a philosopher, reads a lot and likes to take pictures. For latter, it is suggested to head to his Instagram [@martinkaptein](https://www.instagram.com/martinkaptein/).
+
+### Contact
 
 [Contact Martin Kaptein here](/contact/)

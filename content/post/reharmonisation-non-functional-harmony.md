@@ -3,11 +3,11 @@ author = "Martin Kaptein"
 comments = true	# set false to hide Disqus
 date = "2017-11-24T17:17:41+01:00"
 draft = false
-image = ""
+image = "/images/blog/father-jacob-reharmonisation.jpg"
 #menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "reharmonisation-using-non-functional-harmony"
-tags = ["music","tutorial","jazz"]
+tags = ["music","tutorial","jazz","harmony"]
 title = "Reharmonisation of a tune, using non-functional harmony"
 description = "A jazzy reharmonisation of the popular father Jacob tune, using non functional harmony. Also, you can download the pdf for free."
 +++
@@ -16,7 +16,7 @@ description = "A jazzy reharmonisation of the popular father Jacob tune, using n
 
 # Introduction
 
-In this blog post, I would like to write about the topic of reharmonisation, in particular, harmonisation using non-functional harmony. 
+In this blog post, I would like to write about the topic of **reharmonisation**, in particular, **harmonisation using non-functional harmony**. 
 
 I will present an example of reharmonisation of a very simple tune (father Jacob), to make it much more interesting, and give it a completely different appearance.
 
@@ -38,7 +38,7 @@ This makes it very interesting, and in the following part of this blog, I will s
 
 # Reharmonisation of the tune Father Jacob
 
-In the case, that you are not familiar with this tune, here is it:
+In the case, that you are not familiar with this tune, here it is:
 
 ![Original father Jacob tune](/images/blog/father-jacob-original.jpg)
 
@@ -64,9 +64,9 @@ But there are countless other possibilities, you can use different options, chor
 
 In this example I chose for very complicated chords (mostly), which move in a homophonic way, together with the melody. This is purely a demonstration of what is possible (but, probably, not entirely necessary).
 
-## Baseline
+## Bass line
 
-An other way, is to think first of a fitting baseline, for example the chromatic line in Bar 2, and then build the chords on that.
+An other way, is to think first of a fitting bass line, for example the chromatic line in Bar 2, and then build the chords on that.
 
 ## Color and mood
 
@@ -83,4 +83,4 @@ It can lead to many interesting results.
 
 Also, it is interesting to have fusion between functional and non-functional harmonies, as they can complement each other very nicely. An example for this is the II, V, I  (2, 5, 1) progression and the end, Bar 15 and 16.
 
-But in the end, it is all about your ears, your interpretation and your ideas. And non-functional harmony is a beautiful tool to make these elements come alive.
+> But in the end, it is all about your ears, your interpretation and your ideas. And non-functional harmony is a beautiful tool to make these elements come alive.

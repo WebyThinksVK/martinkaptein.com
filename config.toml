@@ -12,14 +12,15 @@ pluralizelisttitles = false
 canonifyurls = true
 
 [params]
-  description = "Welcome to the website of Martin Kaptein. Martin Kaptein is a musician and pianist as well as a tech enthusiast and a philosopher in his free time. Go to the About page for more information."
+  description = "Welcome to the website of Martin Kaptein. I am a passionate musician and pianist, but also a tech enthusiast and developer in my free time. Furthermore, I am really good with languages. Go to the About page for more information."
+  
   #metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  cover = "images/martin-kaptein-cover-3.jpg"
+  cover = "images/martinkaptein-cover-sardegna-large-min.jpg"
   author = "Martin Kaptein"
   authorlocation = "Enschede, The Netherlands"
   authorwebsite = "https://www.martinkaptein.com/"
-  authorbio= "musician, pianist, tech enthusiast, philosopher"
-  logo = "images/logo-black-square.png"
+  authorbio = "musician, developer, polyglot, philosopher"
+  logo = "images/logo-white-on-black-circle.png"
   googleAnalyticsUserID = "UA-86096566-3"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..."

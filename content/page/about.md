@@ -8,7 +8,7 @@ draft = false
 share = true	# set false to hide share buttons
 slug = "about"
 title = "About Martin Kaptein"
-description = "This is the website of Martin Kaptein. Martin Kaptein is a musician, pianist, technology enthusiast and philosopher."
+description = "This is the website of Martin Kaptein. Martin Kaptein is a musician, pianist, technology enthusiast and speaks a lot of different languages."
 +++
 
 # Welcome to the website of Martin Kaptein!

@@ -71,12 +71,12 @@ By the way, Martin has [written his own static site generator](../blog/pythoncms
 
 Besides that, Martin Kaptein is familiar with:
 
-- [Creating websites](/contact/)
+- [Creating and designing websites](/contact/)
 - PHP & MySQL
 - HTML5
 - GIT vcs, Travis CI, Netlify
 - Bash
-- UNIX stuff
+- more UNIX stuff
 
 Furhermore, Martin Kaptein has a very profound interest for Artificial Inteligence.
 

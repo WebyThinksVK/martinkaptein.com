@@ -12,7 +12,7 @@ pluralizelisttitles = false
 canonifyurls = true
 
 [params]
-  description = "Welcome to the website of Martin Kaptein. I am a passionate musician and pianist, but also a technology enthusiast and developer offering various IT services.<br> Furthermore, I am really good with languages. Go to the About page for more information."
+  description = "Welcome to the website of Martin Kaptein. I am a passionate musician and pianist, but also a technology enthusiast and developer offering various IT services. Furthermore, I am really good with languages. Go to the About page for more information."
   
   #metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
   cover = "images/martinkaptein-cover-sardegna-large-min.jpg"

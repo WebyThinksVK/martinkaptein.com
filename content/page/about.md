@@ -27,9 +27,11 @@ Martin Kaptein is a very passionate musician and pianist. Currently, Martin is s
 
 Martin has a deep interest in different kinds of music and doesn't exclude the possibility of composing music at some point in the future.
 
-[Contact Martin](contact.md) for information about his current repertoire and other requests. Also, feel free to take a look at [the YouTube channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ) to hear Martin playing.
+[Contact Martin](/contact/) for information about his current repertoire and other requests. Also, feel free to take a look at [the YouTube channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ) to hear Martin playing.
 
 Furthermore, Martin is a technology enthusiast and a software programmer. Martin builds stuff in his free time, some of which can be found on [his Github profile](https://github.com/martinkaptein/).
+
+Also, Martin provides [various IT services](/it-services/).
 
 In his free time, Martin writes articles on a variety of different topics, which you can find on this site.
 
@@ -45,9 +47,13 @@ In 2015, Martin Kaptein finished the general qualification for university entran
 
 Currently, for the bachelor studies, Martin Kaptein is studying classical music for the subject of classical piano at the ArtEz conservatory in Zwolle, the Netherlands.
 
+***
+
 ### Natural Languages
 
 Martin Kaptein speaks English, Dutch, German and Russian fluently. Furthermore, he is quite familiar with French (and has a DELF certificate).
+
+***
 
 ### Music experience
 
@@ -62,6 +68,12 @@ Martin Kaptein has a lot of experience in playing solo concerts, with wide varie
 - 2017 first price Ulvenhart klassiek competition in the Netherlands
 - 2017 first price International Music festival in Loutraki, Greece
 - 2017 VriendenCultuurPrijs2017 KoBrapublieksprijs - price of the public (Tilburg, The Netherlands)
+
+<!--#### [Read more about Martin Kaptein as a musician](/musician/)-->
+
+#### [Also, there are possibilities for piano and music theory lessons](/music-lessons/)
+
+***
 
 ### IT experience
 
@@ -80,9 +92,15 @@ Besides that, Martin Kaptein is familiar with:
 
 Furhermore, Martin Kaptein has a very profound interest for Artificial Inteligence.
 
+#### [Read about the IT services Martin Kaptein provides](/it-services/)
+
+***
+
 ### Other interests
 
 In his free time Martin Kaptein is a philosopher, reads a lot and likes to take pictures. For latter, it is suggested to head to his Instagram [@martinkaptein](https://www.instagram.com/martinkaptein/).
+
+***
 
 ### Contact
 

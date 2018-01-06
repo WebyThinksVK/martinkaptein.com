@@ -5,14 +5,14 @@ theme = "casper"
 
 paginate = 6
 DisqusShortname = "martinkaptein"
-Copyright = "All rights reserved - 2017"
+Copyright = "All rights reserved - 2018"
 # copyright = "All rights reserved"
 pluralizelisttitles = false
 
 canonifyurls = true
 
 [params]
-  description = "Welcome to the website of Martin Kaptein. I am a passionate musician and pianist, but also a tech enthusiast and developer in my free time. Furthermore, I am really good with languages. Go to the About page for more information."
+  description = "Welcome to the website of Martin Kaptein. I am a passionate musician and pianist, but also a technology enthusiast and developer offering various IT services.<br> Furthermore, I am really good with languages. Go to the About page for more information."
   
   #metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
   cover = "images/martinkaptein-cover-sardegna-large-min.jpg"
@@ -46,11 +46,7 @@ Filename = "sitemap.xml"
 Priority = "-1"
 
 
-[[menu.main]]
-identifier = "blog"
-name = "Blog"
-url = "/"
-weight = 9
+
 
 [[menu.main]]
 identifier = "about"
@@ -58,17 +54,46 @@ name = "About"
 url = "/about/"
 weight = 10
 
+#[[menu.main]]
+#identifier = "musician"
+#name = "Musician"
+#url = "/musician/"
+#weight = 6
+
 [[menu.main]]
 identifier = "media"
 name = "Media"
 url = "/media/"
-weight = 8
+weight = 3
+
+[[menu.main]]
+identifier = "music-lessons"
+name = "Music lessons"
+url = "/music-lessons/"
+weight = 4
+
+[[menu.main]]
+identifier = "it-services"
+name = "IT services"
+url = "/it-services/"
+weight = 5
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/"
+weight = 2
 
 [[menu.main]]
 identifier = "contact"
 name = "Contact"
 url = "/contact/"
-weight = 7
+weight = 1
+
+
+
+
+
 
 
 [permalinks]

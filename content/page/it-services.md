@@ -38,6 +38,7 @@ I not only provide consultancy and support in these languages, but also provide 
 I offer a very broad and dynamic range of IT services, such as:
 
 - Web development (Web applications/Websites/Content Management Systems/Mobile optimised etc.)
+- SEO optimisation
 - Software development (Python)
 - Database & server management
 - work with open source technologies
@@ -54,6 +55,8 @@ Martin Kaptein builds and designs websites, ranging from beautiful, websites, bu
 For static websites, Martin Kaptein, has extended knowledge of [Hugo](https://gohugo.io/) and all modern web technologies from **HTML** and **CSS**, to **JS** (and various frameworks).
 
 For complex, dynamic websites, Martin Kaptein has deep knowledge of **Wordpress**, other open source (mainly **PHP** based) systems and languages that allow for the creation of very complex and **flexible systems and environments**.
+
+Also, Martin Kaptein takes care of **Search Engine Optimisation** to help your website to score higher in Google, and other search engines.
 
 ![wordpress](/images/it/wordpress-illustration-min.jpg)
 

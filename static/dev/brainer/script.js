@@ -10,9 +10,12 @@ function retrievePlayCount () {
 
 retrievePlayCount();
 
+
 function main () {
     //settings&var declaration
     var ExerciseCount = parseInt(prompt("Enter the number of memorise exercises you want to do!\nDefault is 4",4));
+    
+
     var StringLength = parseInt(prompt("Enter the desired length of the string you want to memorise!\nDefault is 4",4));
     var MathExerciseCount = 0;
     var MathExercisesDone = 0;

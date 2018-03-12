@@ -1,94 +1,63 @@
 baseURL = "https://www.martinkaptein.com/"
 languageCode = "en"
-# DefaultContentLanguage = "en"
-
 title = "Martin Kaptein"
-theme = "casper"
 
-paginate = 6
-DisqusShortname = "martinkaptein"
-Copyright = "All rights reserved - 2018"
-# copyright = "All rights reserved"
-pluralizelisttitles = false
 
-canonifyurls = true
+theme = "hyde-hyde"
 
+## Hugo Built-in Features
+disqusShortname = "martinkaptein"
+googleAnalytics = "UA-86096566-3"
+enableRobotsTXT = true
+
+## Site Settings
 [params]
-  description = "Welcome to the website of Martin Kaptein. I am a passionate musician and pianist, but also a technology enthusiast and developer offering various IT services. Furthermore, I am really good with languages. Go to the About page for more information."
-  
-  #metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-  #cover = "images/martinkaptein-cover-sardegna-large-min.jpg"
-  cover = "images/airport.jpg"
-  author = "Martin Kaptein"
-  authorlocation = "Enschede, The Netherlands"
-  authorwebsite = "https://www.martinkaptein.com/"
-  authorbio = "musician, developer, polyglot, philosopher"
-  #authoravatar = "https://cdn4.iconfinder.com/data/icons/gray-user-management/512/rounded-512.png"
-  logo = "images/logo-white-on-black-circle.png"
-  googleAnalyticsUserID = "UA-86096566-3"
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  #RSSLink = "http://feeds.feedburner.com/..."
-  #githubName = "martinkaptein"
-  twitterName = "MartinKaptein"
-  instagramName = "martinkaptein"
-  email = "martinkaptein@outlook.com"
-  facebookName = "martin.kaptein"
-  # linkedinName = ""
-  hideHUGOSupport = true
-  
-  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
-  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
-  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
-  hjsStyle = "default"
+    author = "Martin Kaptein"
+    #title = "Title"
+    description = "musician, developer, polyglot, philosopher"
+    authorimage = "/images/martinkaptein-avatar.jpg"
+    dateformat = "Jan 1, 2006"
+    highlightjs = true
+    # highlightjsstyle = "github"
 
-  [params.social]
-    twitter = "martinkaptein"
-    
-[sitemap]
-ChangeFreq = ""
-Filename = "sitemap.xml"
-Priority = "-1"
+## Social Accounts
+[params.social]
+    github = "martinkaptein"
+    instagram = "martinkaptein"
+    #xing = "<username>"
+    linkedin = "martin-kaptein-a26661159"
+    twitter = "MartinKaptein"
+    facebook = "martin.kaptein"
+    #stackoverflow = "<username>"
+    email = "martinkaptein@outlook.com"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Main Menu
+##################################
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    identifier = "blog"
+    url = "/blog/"
+##################################
 
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 10
-
-#[[menu.main]]
-#identifier = "musician"
-#name = "Musician"
-#url = "/musician/"
-#weight = 6
+    name = "About"
+    identifier = "about"
+    weight = 2
+    url = "/about/"
+    
+    
+[[menu.main]]
+identifier = "music-lessons"
+name = "Music lessons"
+url = "/music-lessons/"
+weight = 3
 
 [[menu.main]]
 identifier = "media"
 name = "Media"
 url = "/media/"
-weight = 3
-
-[[menu.main]]
-identifier = "music-lessons"
-name = "Music lessons"
-url = "/music-lessons/"
 weight = 4
-
-
-
 
 [[menu.main]]
 identifier = "it-services"
@@ -97,24 +66,14 @@ url = "/it-services/"
 weight = 5
 
 [[menu.main]]
-identifier = "blog"
-name = "Blog"
-url = "/"
-weight = 2
-
-[[menu.main]]
 identifier = "contact"
-pre = "<h3>Contact me</h3>"
+#pre = "<h3>Contact me</h3>"
 name = "Contact"
 url = "/contact/"
-weight = 1
-
-
-
-
-
-
-
+weight = 200
+    
+    
 [permalinks]
-post = "blog/:slug/"
+#blog = "blog/:slug/"
 page = "/:slug/"
+posts = "blog"

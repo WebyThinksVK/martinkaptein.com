@@ -1,6 +1,6 @@
 +++
 author = "Martin Kaptein"
-comments = false	# set false to hide Disqus
+showcomments = false	# set false to hide Disqus
 date = "2018-01-05T21:02:48+01:00"
 draft = false
 image = "/images/music/steinway-min.jpg"

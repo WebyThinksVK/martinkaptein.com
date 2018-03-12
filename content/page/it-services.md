@@ -1,6 +1,6 @@
 +++
 author = "Martin Kaptein"
-comments = false	# set false to hide Disqus
+showcomments = false	# set false to hide Disqus
 date = "2018-01-04T20:34:27+01:00"
 draft = false
 image = "/images/it/webapi-min.jpg"
@@ -15,6 +15,9 @@ description = "Martin Kaptein covers a big range of services you need for your I
 
 
 # IT services
+
+![Web API](/images/it/webapi-min.jpg)
+
 
 Martin Kaptein covers a big range of services you need for your IT infrastructure. 
 

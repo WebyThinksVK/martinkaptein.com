@@ -1,6 +1,6 @@
 +++
 author = "Martin Kaptein"
-comments = false	# set false to hide Disqus
+showcomments = false	# set false to hide Disqus
 date = "2017-09-05T15:11:18+02:00"
 draft = false
 #image = "/images/martinkaptein_small.jpg"

@@ -2,10 +2,11 @@ function retrievePlayCount () {
     //if first time
     if (!localStorage.getItem("timesPlayed")) {
         localStorage.setItem("timesPlayed", 0);
-    }
-    
+        document.getElementById("amountTimesPlayed").innerHTML = "This is your first time! Good luck!";
+    } else {
     var PlayCount = localStorage.getItem("timesPlayed");
     document.getElementById("amountTimesPlayed").innerHTML = PlayCount;
+    }
 }
 
 retrievePlayCount();

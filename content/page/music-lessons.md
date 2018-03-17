@@ -16,6 +16,8 @@ description = "Individual piano lessons as well as music theory lessons in many 
 
 # Piano and music theory lessons
 
+![steinway piano lessons](/images/music/steinway-min.jpg)
+
 I give classical piano lessons in many different languages (Dutch, English, German and Russian) for beginners and advanced students alike, from all ages. Individual lessons are preferable.
 
 Also, I teach elementary music theory such as solfeggio (also in the languages Dutch, English, German and Russian).

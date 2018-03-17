@@ -13,13 +13,13 @@ description = "This is the website of Martin Kaptein. Martin Kaptein is a musici
 
 # Welcome to the website of Martin Kaptein!
 
-## Introduction
+![Martin Kaptein at the piano](/images/martinkaptein_small.jpg)
 
-![Portrait style picture of Martin Kaptein](/images/martinkaptein_portrait.jpg) 
+## Introduction
 
 *Martin Kaptein*
 
-> Martin Kaptein is a musician, tech enthusiast and philosopher
+> Martin Kaptein is a musician, tech enthusiast and philosopher. And above that, a polyglot.
 
 ## Work
 
@@ -38,6 +38,8 @@ In his free time, Martin writes articles on a variety of different topics, which
 ***
 
 ## Resume
+
+![Portrait style picture of Martin Kaptein](/images/martinkaptein_portrait.jpg) 
 
 ### Highschool
 

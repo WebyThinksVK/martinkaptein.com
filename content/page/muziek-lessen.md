@@ -2,7 +2,7 @@
 author = "Martin Kaptein"
 showcomments = false	# set false to hide Disqus
 date = "2018-01-05T21:02:48+01:00"
-draft = false
+draft = true
 image = "/images/music/steinway-min.jpg"
 #menu = ""		# set "main" to add this content to the main menu >> better define menu in config.toml
 share = true	# set false to hide share buttons

@@ -43,9 +43,13 @@ In his free time, Martin writes articles on a variety of different topics, which
 
 ### Highschool
 
+#### 2007 until 2015 - Missionsgymnasium St. Antonius Bardel, Germany
+
 In 2015, Martin Kaptein finished the general qualification for university entrance (=Abitur) in Germany (Gymnasium). Thus, he has an advanced school-leaving certificate with splendid marks.
 
 ### Bachelor
+
+#### 2015 until present - ArtEz conservatory, Zwolle, The Netherlands
 
 Currently, for the bachelor studies, Martin Kaptein is studying classical music for the subject of classical piano at the ArtEz conservatory in Zwolle, the Netherlands.
 

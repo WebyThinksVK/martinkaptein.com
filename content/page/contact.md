@@ -8,13 +8,13 @@ image = ""
 share = true	# set false to hide share buttons
 slug = "contact"
 title = "Contact"
-description = "Contact page of Martin Kaptein. Here you will find all the ways to communicate with Martin. Contact via E-Mail, Facebook, Messenger or Twitter."
+description = "Contact page of Martin Kaptein. Here you will find all the ways to communicate with Martin. Contact via E-Mail, Facebook, Messenger, Twitter or LinkedIn."
 +++
 
 # Contact Martin Kaptein
 
 Here you will find all the contact information for Martin Kaptein.
-Contact by mail or by any social network such as Facebook, Twitter or Instagram. Alternatively, use Messenger.
+Contact by mail or by any social network such as Facebook, LinkedIn, Twitter or Instagram. Alternatively, use Messenger.
 
 
 ## E-Mail adress
@@ -31,9 +31,12 @@ Instagram: [@martinkaptein](https://www.instagram.com/martinkaptein/)
 
 Twitter: [@MartinKaptein](https://twitter.com/MartinKaptein/)
 
+LinkedIn: [LinkedIn profile](https://linkedin.com/in/martin-kaptein-a26661159)
+
 ## YouTube
 
 YouTube: [My channel](https://www.youtube.com/channel/UCosUIzMUriRTgg60vh3EwCQ)
 
 ## Phone 
+
 *(phone number on request)*

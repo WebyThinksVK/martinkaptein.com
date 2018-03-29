@@ -16,7 +16,7 @@ enableRobotsTXT = true
     #title = "Title"
     description = "musician, developer, polyglot, philosopher"
     authorimage = "/images/martinkaptein-avatar.jpg"
-    dateformat = "Jan 1, 2006"
+    dateformat = "Jan 2, 2006"
     highlightjs = true
     # highlightjsstyle = "github"
 

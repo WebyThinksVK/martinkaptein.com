@@ -22,3 +22,7 @@ New blog entry:
 Check theme `/layouts/index.html`
 
 `"posts" >> "blog"` in order for root page to work correctly.
+
+hotfix for date issue:
+in main `config.toml` under `params` 
+`dateformat = "Jan 1, 2006" >> dateformat = "Jan 2, 2006"`

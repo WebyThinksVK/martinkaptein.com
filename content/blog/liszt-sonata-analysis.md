@@ -1,6 +1,7 @@
 +++
 author = "Martin Kaptein"
-comments = true	# set false to hide Disqus
+comments = false	# set false to hide Disqus
+showcomments = false
 date = "2017-03-30T15:11:18+02:00"
 draft = false
 image = "/images/theme_overview_sonata.jpg"

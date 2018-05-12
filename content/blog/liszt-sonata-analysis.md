@@ -1,22 +1,34 @@
 +++
 author = "Martin Kaptein"
-comments = false	# set false to hide Disqus
+comments = true 	# set false to hide Disqus
 date = "2017-03-30T15:11:18+02:00"
-draft = true
-image = "/images/theme_overview_sonata.jpg"
+lastmod = 2018-05-12T22:17:10+02:00
+draft = false
+#image = "/images/theme_overview_sonata.jpg"
 #menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "liszt-sonata-analysis"
 tags = ["liszt","analysis","music"]
 categories = ["liszt","analysis","music"]
 title = "F. Liszt b minor sonata analysis"
-description = "This is Martin Kaptein's analysis of the famous b minor Sonata by Franz Liszt."
+description = "An analysis of the famous b minor Sonata by Franz Liszt."
 +++
 
 
 
 # F. Liszt b minor Sonata Analysis
 
+#### Note:
+
+This blog entry makes extensive use of the content found over at [Musica Kaleidoskopea](https://fdleone.com/2015/07/09/overview-and-analysis-of-the-liszt-piano-sonata-in-b-minor-s-178/). [Link here](https://fdleone.com/2015/07/09/overview-and-analysis-of-the-liszt-piano-sonata-in-b-minor-s-178/).
+
+If you are the author of the article linked above, and do not wish me to use your content, please let me now and [contact me here](../../contact/), I will remove this page.
+
+The content is purely for educational purpose, I do not claim any copyright.
+
+With that out of the way, let's start.
+
+***
 
 ![Portrait of Franz Liszt](/images/liszt_portrait.jpg)
 

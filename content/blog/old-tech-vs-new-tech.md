@@ -1,7 +1,7 @@
 ---
 title: "Old Technology vs New Technology - Casio F-91W vs Xiaomi Mi Band 2"
 date: 2018-05-12T15:17:10+02:00
-lastmod: 2018-05-12T15:17:10+02:00
+lastmod: 2018-05-12T22:17:10+02:00
 draft: false
 categories:
   - Experience

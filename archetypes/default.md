@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-lastmod: 2017-10-11T17:30:00+06:00
+lastmod: {{ .Date }}
 draft: true
 categories:
   - features

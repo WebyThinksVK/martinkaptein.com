@@ -1,8 +1,8 @@
 +++
 author = "Martin Kaptein"
-showcomments = false	# set false to hide Disqus
+comments = false	# set false to hide Disqus
 date = "2017-09-05T15:11:18+02:00"
-draft = false
+draft = true
 #image = "/images/martinkaptein_small.jpg"
 #menu = "main"		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons

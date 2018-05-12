@@ -7,7 +7,7 @@ categories : ["nexus4", "ubuntu-touch", "tutorial", "review"]
 author: "Martin Kaptein"
 description: "Review and installation of Ubuntu Touch UBports on the LG Nexus 4 in 2018. My opinion and experience with Ubuntu Touch and tutorial for installation. Trouble installaing Ubuntu Touch operating system on Nexus 4."
 slug: "ubuntu-touch-on-nexus-4-in-2018-installation-and-review"
-showcomments: true
+comments: true
 ---
 
 

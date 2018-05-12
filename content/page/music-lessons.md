@@ -1,6 +1,6 @@
 +++
 author = "Martin Kaptein"
-showcomments = false	# set false to hide Disqus
+comments = false	# set false to hide Disqus
 date = "2018-01-05T21:02:48+01:00"
 draft = false
 image = "/images/music/steinway-min.jpg"
@@ -8,8 +8,10 @@ image = "/images/music/steinway-min.jpg"
 share = true	# set false to hide share buttons
 slug = "music-lessons"
 #tags = ["tag1","tag2"]
-title = "Piano and music theory lessons - Enschede and Zwolle, The Netherlands"
+title = "Music-Lessons"
 description = "Individual piano lessons as well as music theory lessons in many different languages (Dutch, English, German and Russian) for beginners and advanced students alike, from all ages. In the vicinity of Enschede and Zwolle, The Netherlands."
+menu = "main"
+weight = "-4"
 +++
 
 

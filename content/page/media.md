@@ -1,14 +1,16 @@
 +++
 author = "Martin Kaptein"
-showcomments = false	# set false to hide Disqus
+comments = false	# set false to hide Disqus
 date = "2017-09-05T15:11:47+02:00"
 draft = false
 image = "/images/martinkaptein_small.jpg"
 #menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "media"
-title = "Photos and videos of Martin Kaptein"
+title = "Media"
 description = "Photos and videos of Martin Kaptein, including Pictures from concerts and YouTube videos."
+menu = "main"
+weight = "-3"
 +++
 
 # Photos and videos of Martin Kaptein

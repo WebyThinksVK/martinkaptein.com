@@ -1,6 +1,6 @@
 +++
 author = "Martin Kaptein"
-showcomments = false	# set false to hide Disqus
+comments = false	# set false to hide Disqus
 date = "2017-09-05T15:11:52+02:00"
 draft = false
 image = ""
@@ -9,6 +9,8 @@ share = true	# set false to hide share buttons
 slug = "contact"
 title = "Contact"
 description = "Contact page of Martin Kaptein. Here you will find all the ways to communicate with Martin. Contact via E-Mail, Facebook, Messenger, Twitter or LinkedIn."
+menu = "main"
+weight = "-1"
 +++
 
 # Contact Martin Kaptein

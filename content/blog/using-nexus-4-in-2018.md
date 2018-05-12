@@ -7,7 +7,7 @@ categories : ["nexus4", "custom-rom" , "experience"]
 author: "Martin Kaptein"
 description: "The perks of buying a Nexus 4 phone in 2018. Best custom ROMs for best battery life, running different operating systems (such as Ubuntu Touch, Firefox OS and Sailfish OS) and much more."
 slug: "using-a-nexus-4-in-2018"
-showcomments: true
+comments: true
 ---
 
 

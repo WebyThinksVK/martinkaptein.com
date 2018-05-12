@@ -1,79 +1,114 @@
 baseURL = "https://www.martinkaptein.com/"
-languageCode = "en"
 title = "Martin Kaptein"
+# for smart copyright line, leave this blank and check [params.copyright]
+copyright = ""
 
+theme = "minimo"
 
-theme = "hyde-hyde"
-
-## Hugo Built-in Features
 disqusShortname = "martinkaptein"
 googleAnalytics = "UA-86096566-3"
-enableRobotsTXT = true
 
-## Site Settings
-[params]
-    author = "Martin Kaptein"
-    #title = "Title"
-    description = "musician, developer, polyglot, philosopher"
-    authorimage = "/images/martinkaptein-avatar.jpg"
-    dateformat = "Jan 2, 2006"
-    highlightjs = true
-    # highlightjsstyle = "github"
+Paginate = 5
+preserveTaxonomyNames = true
 
-## Social Accounts
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+enableEmoji = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
+
+[params.info]
+description = "musician, developer, polyglot, philosopher"
+title404 = "Nothing's here!"
+
+[params.assets]
+favicon = "favicon.ico"
+customCSS = ["css/custom.css"]
+customJS = ["js/custom.js"]
+gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+
+[params.copyright]
+prefix = ""
+holder = "Martin Kaptein"
+startYear = "2015"
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+archiveDateFormat = "Jan 02"
+hideEntryNavigation = ["page"] # boolean / array of sections
+showReadingTime = true
+taxonomyCloudShuffle = true
+accentColor = "#ffcd00"
+hideMainMenu = false
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+homepage = ["recent_posts"]
+sidebar = ["about","taxonomy_cloud"]
+footer = ["social_menu"]
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "" # Twitter page username
+
+[params.seo]
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "•"
+
 [params.social]
-    github = "martinkaptein"
-    instagram = "martinkaptein"
-    #xing = "<username>"
-    linkedin = "martin-kaptein-a26661159"
-    twitter = "MartinKaptein"
-    facebook = "martin.kaptein"
-    #stackoverflow = "<username>"
-    email = "martinkaptein@outlook.com"
+#codepen = "MunifTanjim"
+email = "martinkaptein@outlook.com"
+facebook = "martin.kaptein"
+github = "MartinKaptein"
+#gitlab = "MunifTanjim"
+instagram = "MartinKaptein"
+linkedin = "martin-kaptein-a26661159"
+twitter = "MartinKaptein"
+#telegram = "MunifTanjim"
+#google_scholar = "qc6CJjYAAAAJ"
 
-## Main Menu
-##################################
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    identifier = "blog"
-    url = "/blog/"
-##################################
+[params.comments]
+enable = false
 
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 2
-    url = "/about/"
-    
-    
-[[menu.main]]
-identifier = "music-lessons"
-name = "Music lessons"
-url = "/music-lessons/"
-weight = 3
+[params.comments.staticman]
+enable = true
+apiEndpoint = "https://api.staticman.net/v2/entry"
+maxDepth = 2
 
-[[menu.main]]
-identifier = "media"
-name = "Media"
-url = "/media/"
-weight = 4
+[params.comments.staticman.github]
+#username = "MunifTanjim"
+#repository = "minimo"
+#branch = "master"
 
-[[menu.main]]
-identifier = "it-services"
-name = "IT services"
-url = "/it-services/"
-weight = 5
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
 
-[[menu.main]]
-identifier = "contact"
-#pre = "<h3>Contact me</h3>"
-name = "Contact"
-url = "/contact/"
-weight = 200
-    
-    
 [permalinks]
-#blog = "blog/:slug/"
 page = "/:slug/"
-posts = "blog"
+
+
+[blackfriday]
+hrefTargetBlank = true
+
+[languages]
+# edit this block for your own language
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1

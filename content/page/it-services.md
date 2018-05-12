@@ -1,6 +1,6 @@
 +++
 author = "Martin Kaptein"
-showcomments = false	# set false to hide Disqus
+comments = false	# set false to hide Disqus
 date = "2018-01-04T20:34:27+01:00"
 draft = false
 image = "/images/it/webapi-min.jpg"
@@ -8,8 +8,10 @@ image = "/images/it/webapi-min.jpg"
 share = false	# set false to hide share buttons
 slug = "it-services"
 #tags = ["tag1","tag2"]
-title = "IT Services"
+title = "IT-Services"
 description = "Martin Kaptein covers a big range of services you need for your IT infrastrucure. Starting from IT consulting, for hard- and software, finding solutions, such as developing software with very specific requirements, building and supporting websites, up to continuous IT administration and support. I speak English, German, Dutch and Russian."
+menu = "main"
+weight = "-2"
 +++
 
 

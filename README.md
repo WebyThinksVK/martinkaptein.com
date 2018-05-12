@@ -1,11 +1,11 @@
 # martinkaptein.com
 Repository of [martinkaptein.com](https://www.martinkaptein.com/).
 
-Currently using Hugo 0.37.1. Build, deployed and hosted by Netlify.
+Currently using Hugo 0.40.3. Build, deployed and hosted by Netlify.
 
-Theme: hyde-hyde
+Theme: minimo
 
-Original theme can be found [here](https://github.com/htr3n/hyde-hyde)
+Original theme can be found [here](https://minimo.netlify.com/)
 
 ## Usage
 

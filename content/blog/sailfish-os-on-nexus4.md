@@ -7,8 +7,8 @@ image = "/images/sailfish-os-in-action-2.jpg"
 #menu = ""		# set "main" to add this content to the main menu >> better define menu in config.toml
 share = true	# set false to hide share buttons
 slug = "sailfish-os-on-nexus-4"
-tags = ["tutorial","nexus4","custom-rom","sailfish-os"]
-categories = ["tutorial","nexus4","custom-rom","sailfish-os"]
+tags = ["tutorial","nexus4","custom-rom","review","technology"]
+categories = ["tutorial","nexus4","custom-rom","review","technology"]
 title = "Installing Sailfish OS on Google Nexus 4"
 description = "In this tutorial I will show how to install Sailfish OS on a LG Nexus 4."
 +++

@@ -7,8 +7,8 @@ image = "/images/blog/father-jacob-reharmonisation.jpg"
 #menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "reharmonisation-using-non-functional-harmony"
-tags = ["music","tutorial","jazz","harmony"]
-categories = ["music","tutorial","jazz","harmony"]
+tags = ["music","tutorial","analysis","research"]
+categories = ["music","tutorial","analysis","research"]
 title = "Reharmonisation of a tune, using non-functional harmony"
 description = "A jazzy reharmonisation of the popular father Jacob tune, using non functional harmony. Also, you can download the pdf for free."
 +++

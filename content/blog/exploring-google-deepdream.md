@@ -7,8 +7,8 @@ image = "/images/inc5aoutx123.jpg"
 #menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "exploring-google-deepdream"
-tags = ["tutorial","deepdream","python","artificial intelligence"]
-categories = ["tutorial","deepdream","python","artificial intelligence"]
+tags = ["tutorial","technology","python","artificial intelligence","research"]
+categories = ["tutorial","technology","python","artificial intelligence","research"]
 title = "Exploring Google DeepDream and getting nice images"
 description = "Exploring Google DeepDream and getting very cool results. My experiences and modifications to the source code."
 +++

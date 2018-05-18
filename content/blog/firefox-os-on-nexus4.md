@@ -7,8 +7,8 @@ image = "/images/firefox-os-in-action-2.jpg"
 #menu = ""		# set "main" to add this content to the main menu >> better define menu in config.toml
 share = true	# set false to hide share buttons
 slug = "firefox-os-on-nexus-4"
-tags = ["tutorial","nexus4","custom-rom","firefox-os"]
-categories = ["tutorial","nexus4","custom-rom","firefox-os"]
+tags = ["tutorial","nexus4","custom-rom","review","technology"]
+categories = ["tutorial","nexus4","custom-rom","review","technology"]
 title = "Installing Firefox OS on Google Nexus 4"
 description = "In this tutorial I will show how to install Firefox OS (also known as Boot to Gecko) on a LG Nexus 4."
 +++

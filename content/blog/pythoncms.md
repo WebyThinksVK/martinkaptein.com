@@ -7,8 +7,8 @@ image = "/images/pythoncms_in_action.jpg"
 #menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "pythoncms"
-tags = ["python","tutorial","cms"]
-categories = ["python","tutorial","cms"]
+tags = ["python","tutorial","cms","technology"]
+categories = ["python","tutorial","cms","technology"]
 title = "PythonCMS - A static blog and site generator"
 description = "PythonCMS is a static blog and site generator, written in Python 3, which is fully portable and very easy to use."
 +++

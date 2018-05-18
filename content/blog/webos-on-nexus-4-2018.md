@@ -2,8 +2,8 @@
 title: "WebOS reincarnated on LG Nexus 4 as LuneOS"
 date: 2018-04-02T15:46:01+02:00
 draft: false
-tags : ["nexus4", "experience" , "webos"]
-categories : ["nexus4", "experience" , "webos"]
+tags : ["nexus4", "review" , "custom-rom" , "technology"]
+categories : ["nexus4", "review" , "custom-rom" , "technology"]
 author: "Martin Kaptein"
 description: "Running a ported version of WebOS (LuneOS) on the LG Nexus 4. Installation instructions, comparison with Palm Pre Plus and my impressions."
 slug: "webos-on-nexus-4-2018"

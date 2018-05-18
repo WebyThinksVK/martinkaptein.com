@@ -7,8 +7,8 @@ image = "/images/deepdream/minimized/inc4cOUTelbrusx19.jpg"
 #menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "the-beauty-of-computer-dreams"
-tags = ["python","deepdream","artificial intelligence"]
-categories = ["python","deepdream","artificial intelligence"]
+tags = ["python","technology","artificial intelligence","research"]
+categories = ["python","technology","artificial intelligence","research"]
 title = "When computers see dreams - the essence of dreams"
 description = "In this blog post, we will, quite literally, take a look inside a dream of a computer and I will talk about the meaning of dreams, both, human dreams and computer dreams. For that I will use DeepDream by Google. Also, I will philosophise about the topic of whats to come after that."
 +++

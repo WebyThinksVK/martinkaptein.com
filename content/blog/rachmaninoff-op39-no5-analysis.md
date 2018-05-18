@@ -7,8 +7,8 @@ image = "/images/blog/elabortation-theme-1-op39-no5.jpg"
 #menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "rachmaninoff-op39-no5-analysis"
-tags = ["music","rachmaninoff","analysis"]
-categories = ["music","rachmaninoff","analysis"]
+tags = ["music","rachmaninoff","analysis","research"]
+categories = ["music","rachmaninoff","analysis","research"]
 title = "Analysis of Sergei Rachmaninoff's Etude-Tableaux Op.39 No.5"
 description = "This is my analysis of the amazing Etude-Tableaux Op.39 No.5 by Sergei Rachmaninoff. The Etude-Tableaux op 39 no 5 is a very challenging piece, both technically, musically and emotionally. Also, out of all etudes tableaux, op.39 no.5 is the, perhaps, most harmonically elaborate piece, featuring complex harmonic movement."
 +++

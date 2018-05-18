@@ -7,8 +7,8 @@ image = "/images/gh_access_token.jpg"
 #menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "hugo-with-travis-ci-on-gh-pages"
-tags = ["tutorial","hugo","travis-ci"]
-categories = ["tutorial","hugo","travis-ci"]
+tags = ["tutorial","cms","technology"]
+categories = ["tutorial","cms","technology"]
 title = "Using Hugo with Travis CI on GitHub Pages"
 description = "In this blog post I will show how to build your static website with Hugo and deploy it to GitHub pages automatically using Travis CI. This can have a lot of benefits: For example, you can fix typo's directly from the Github web interface from your phone (without editing raw HTML). I kept the whole setup as minimal as possible. Hence, no bash script or travis command line tools are required."
 +++

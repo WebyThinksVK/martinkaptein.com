@@ -8,8 +8,8 @@ draft = false
 #menu = ""		# set "main" to add this content to the main menu
 share = true	# set false to hide share buttons
 slug = "liszt-sonata-analysis"
-tags = ["liszt","analysis","music"]
-categories = ["liszt","analysis","music"]
+tags = ["liszt","analysis","music","research"]
+categories = ["liszt","analysis","music","research"]
 title = "F. Liszt b minor sonata analysis"
 description = "An analysis of the famous b minor Sonata by Franz Liszt."
 +++

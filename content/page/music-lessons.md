@@ -9,7 +9,7 @@ share = true	# set false to hide share buttons
 slug = "music-lessons"
 #tags = ["tag1","tag2"]
 title = "Music-Lessons"
-description = "Individual piano lessons as well as music theory lessons in many different languages (Dutch, English, German and Russian) for beginners and advanced students alike, from all ages. In the vicinity of Enschede and Zwolle, The Netherlands."
+description = "Individual piano lessons as well as music theory lessons in many different languages (Dutch, English, German and Russian) for beginners and advanced students alike, from all ages. In the vicinity of Utrecht/Bosch en Duin and Zwolle, The Netherlands."
 menu = "main"
 weight = "-4"
 +++
@@ -42,16 +42,16 @@ I help to create a good set of basic knowledge of:
 
 ## Where
 
-I give lessons in the vicinity of Enschede, The Netherlands. It is possible to arrange me to visit the student at home, but also at the ArtEz conservatory in Enschede.
+I give lessons in the vicinity of Utrecht/Bosch en Duin , The Netherlands. It is possible to arrange me to visit the student at home, but also offer the student to come to my home (*contact me for address*).
 Also, I am regularly in the ArtEz conservatory in Zwolle, there I also give lessons.
 
 #### Adresses
 
-**ArtEz Enschede:** Van Essengaarde 10, 7511 PN Enschede
+**Utrecht - Bosch en Duin:** *contact me for adress*
 
 **ArtEz Zwolle:** Aan de Stadsmuur 88, 8011 VD Zwolle
 
-*Private lessons at home of the student are possible in the vicinity of Enschede.*
+*Private lessons at home of the student are possible in the vicinity of Utrecht - Bosch en Duin.*
 
 ## My piano teaching philosophy and system
 
@@ -80,4 +80,4 @@ Feel free to send me an email so we can arrange something!
 
 **E-Mail:** [martinkaptein@outlook.com](mailto:martinkaptein@outlook.com)
 
-*(phone number on request)*
+*(phone number and address on request)*

@@ -4,13 +4,13 @@ date: 2018-05-12T15:17:10+02:00
 lastmod: 2018-05-12T22:17:10+02:00
 draft: false
 categories:
-  - Technology
-  - Review
-  - Opinion
+  - technology
+  - review
+  - opinion
 tags:
-  - Technology
-  - Review
-  - Opinion
+  - technology
+  - review
+  - opinion
 slug: old-tech-vs-new-tech-casio-vs-xiaomi
 comments: true
 description: Comparison between the Casio F-91W and Xiaomi Mi Band 2, review and opinion. How old technology can really be challenging new technology. Technical details and the rich history of the Casio F-91W.

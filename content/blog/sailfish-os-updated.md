@@ -4,15 +4,15 @@ date: 2018-05-21T20:13:31+02:00
 lastmod: 2018-05-21T22:13:31+02:00
 draft: false
 categories:
-  - Nexus4
+  - nexus4
   - technology
   - tutorial
-  - Custom-rom
+  - custom-rom
 tags:
-  - Nexus4
+  - nexus4
   - technology
   - tutorial
-  - Custom-rom
+  - custom-rom
 slug: sailfish-os-nexus-4-2018-updated
 comments: true
 description: Sailfish OS port for Nexus 4 (mako) updated version 2.1.3.7 for 2018. Download links, installation and review (updated).

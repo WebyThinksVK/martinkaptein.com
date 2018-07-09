@@ -82,6 +82,6 @@ Feel free to contact me here, for more specific information, and requests.
 
 **Twitter:** [@MartinKaptein](https://twitter.com/martinkaptein)
 
-**Location:** Enschede, The Netherlands
+**Location:** Utrecht, The Netherlands
 
 *Business inquiries only*

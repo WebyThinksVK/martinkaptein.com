@@ -2,7 +2,7 @@
 title: Using machine learning to predict integers from a training set
 date: 2018-08-03T21:54:27+02:00
 lastmod: 2018-08-03T21:54:27+02:00
-draft: true
+draft: false
 categories:
   - Machine Learning
   - Python

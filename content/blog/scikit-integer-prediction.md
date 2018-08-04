@@ -15,7 +15,7 @@ tags:
   - Artificial Intelligence
   - Tutorial
   - Technology
-slug: your-slug
+slug: machine-learning-introduction-python-scikit-learn
 comments: true
 description: This beginner tutorial is an introduction to Machine Learning in Python on how to predict integers from a training set using scikit-learn and the linear regression model.
 # menu: main
